@@ -1,0 +1,77 @@
+body {
+    margin:0;
+    padding: 0;
+    font-family: "Avenir Next";
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f2f2f2;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #a6a6a6;
+}
+
+li a:hover {
+    color: #ff3300;
+}
+
+a {
+    color: black;
+    letter-spacing: 1px;
+}
+
+table {
+    width: 90%;
+    margin: 0 auto 30px auto;
+    border-collapse: collapse;
+}
+
+table, th, td{
+    border: 1px solid grey;
+    text-align: center;
+}
+
+h1 {
+    width: 90%;
+    margin: auto auto;
+    padding: 40px 0px 0px 0px;
+}
+
+h4 {
+    width: 90%;
+    margin: auto auto;
+    color: #ff3300;
+    padding: 0px 0px 20px 0px;
+}
+
+.align {
+    width: 90%;
+    margin: auto 0 0 5%;
+}
+
+form{
+    width: 90%;
+    margin: 0 0 25px 0;
+}
+
+input[type=submit]{
+    width: 150px;
+    margin-top: 15px;
+    background-color: #ff3300;
+    color: white;
+}
+
+

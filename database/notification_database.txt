@@ -1,0 +1,8 @@
+9618150,Reminder,Push,Enabled
+9718150,Reminder,SMS,Disabled
+9818150,Reminder,Email,Enabled
+9918150,Reminder,SMS,Enabled
+9018150,Reminder,Email,Enabled
+8273516,Pay,Email,Disabled
+3382060,Penalty,Email,Enabled
+2797301,Penalty,Email,Disable
